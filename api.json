@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Python Object-Oriented Programming",
+    "thumbnail": "../api/course1.png",
+    "description": "Learn the principles and best practices of object-oriented programming (OOP) in Python.",
+    "credit_hours": 3,
+    "price": 199
+  },
+  {
+    "id": 2,
+    "title": "MySQL Database Management",
+    "thumbnail": "../api/course2.png",
+    "description": "Master the art of database management with MySQL, including SQL queries and optimization.",
+    "credit_hours": 4,
+    "price": 249
+  },
+  {
+    "id": 3,
+    "title": "C Programming Fundamentals",
+    "thumbnail": "../api/course3.png",
+    "description": "Get started with the basics of C programming, including variables, loops, and functions.",
+    "credit_hours": 2,
+    "price": 149
+  },
+  {
+    "id": 4,
+    "title": "Algorithm Design and Analysis",
+    "thumbnail": "../api/course4.png",
+    "description": "Explore algorithms, data structures, and techniques for solving complex problems efficiently.",
+    "credit_hours": 5,
+    "price": 299
+  },
+  {
+    "id": 5,
+    "title": "C++ Programming Essentials",
+    "thumbnail": "../api/course5.png",
+    "description": "Learn the fundamentals of C++ programming, including classes and inheritance.",
+    "credit_hours": 3,
+    "price": 199
+  },
+  {
+    "id": 6,
+    "title": "Software Development and Research",
+    "thumbnail": "../api/course6.png",
+    "description": "Dive into the world of software development and research, including industry trends and practices.",
+    "credit_hours": 4,
+    "price": 249
+  },
+  {
+    "id": 7,
+    "title": "Creative Software UI Design",
+    "thumbnail": "../api/course7.png",
+    "description": "Unlock your creativity and design stunning user interfaces for software applications.",
+    "credit_hours": 3,
+    "price": 199
+  },
+  {
+    "id": 8,
+    "title": "Data Structures and Algorithms",
+    "thumbnail": "../api/course8.png",
+    "description": "Explore advanced data structures and algorithms for efficient problem-solving.",
+    "credit_hours": 5,
+    "price": 299
+  },
+  {
+    "id": 9,
+    "title": "Amazon Web Services (AWS) Mastery",
+    "thumbnail": "../api/course9.png",
+    "description": "Become an AWS expert and gain in-depth knowledge of cloud computing and services.",
+    "credit_hours": 4,
+    "price": 249
+  }
+]
